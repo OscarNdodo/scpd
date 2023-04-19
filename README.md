@@ -29,4 +29,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 	Resolver a questao do menu, qunado se clica num link ele nao fecha. [FEITO]
 ### DETALHES 
 	Resolver o bug de nao pegar o evnto de click apenas no botao.
+<<<<<<< ours
 # scpd
+=======
+>>>>>>> theirs
